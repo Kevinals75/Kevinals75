@@ -1,5 +1,4 @@
-![](https://drive.google.com/file/d/1pKCZSlqZqerXzaAFf7AcDUe-0zNSnJ_3/view?usp=sharing)
-
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/239823778_267562271616364_5953555998550635808_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEG5cT7_-wWSHWEDwSdVjjRgn6BfbDUmHmCfoF9sNSYedqbZZhJYETfHBquUJT14Q6yqNVN_2jZCyxe2tZ4eUer&_nc_ohc=CFqB286O--kAX8kMFPB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8e478bc6c0132c7a31d14c4e20d3978b&oe=614CC121)
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 ### Hola colegas 👋
