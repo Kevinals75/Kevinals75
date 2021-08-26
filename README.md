@@ -1,4 +1,4 @@
-![](https://images.cooltext.com/5508510.png)
+![](https://i.blogs.es/66b2a4/photo-1511367461989-f85a21fda167/450_1000.jpeg)
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
