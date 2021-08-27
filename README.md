@@ -12,18 +12,6 @@
 - Y aunque html no entra en esa categoria, tambien he trabajado con el.
 - Lo que recomiendo es que no debes de quedarte solo con uno, sino empaparte de conocimiento para tener un conocimiento mas amplio.
 
-Licenciamiento para los cursos:
-- Apple University Programm beca de 200 dispositivo iOS
-- Amazon Web Services AWSEducate beca de $50 dlls estudiantes y $200 dlls a 👩‍🏫 docentes 
-- Jetbrains Suite completo de beca $450 dlls
-
-
-Inventario maker para cursos
-- Arduino clasico
-- STM32
-- RaspberryPi 
-- kit de sensores y herramientas soldar
-
 
 
 Ejemplo Tablas en MD
