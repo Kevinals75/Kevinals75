@@ -32,9 +32,11 @@ Inventario maker para cursos
 
 Ejemplo Tablas en MD
 
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
-
+|       	|                 LUNES                 	|                 MARTES                	|               MIERCOLES               	|                 JUEVES                	|         VIERNES        	|
+|-------	|:-------------------------------------:	|:-------------------------------------:	|:-------------------------------------:	|:-------------------------------------:	|:----------------------:	|
+| 14:00 	|         Lenguajes de interfaz         	|         Lenguajes de interfaz         	|         Lenguajes de interfaz         	|         Lenguajes de interfaz         	|                        	|
+| 15:00 	|         Desarrollo sustentable        	|         Desarrollo sustentable        	|         Desarrollo sustentable        	|         Desarrollo sustentable        	| Desarrollo sustentable 	|
+| 16:00 	|   Fundamentos de telecomunicaciones   	|   Fundamentos de telecomunicaciones   	|   Fundamentos de telecomunicaciones   	|   Fundamentos de telecomunicaciones   	|                        	|
+| 17:00 	|          Sistemas operativos          	|          Sistemas operativos          	|          Sistemas operativos          	|          Sistemas operativos          	|                        	|
+| 18:00 	| Fundamentos de ingenieria de software 	| Fundamentos de ingenieria de software 	| Fundamentos de ingenieria de software 	| Fundamentos de ingenieria de software 	|                        	|
+| 19:00 	|        Taller de base de datos        	|        Taller de base de datos        	|        Taller de base de datos        	|        Taller de base de datos        	|                        	|
