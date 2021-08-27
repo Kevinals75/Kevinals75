@@ -7,14 +7,13 @@
  
  Estudiante de INSTITUTO TECNOLÓGICO DE TIJUANA
  
-- 🔭 En preparatoria me prepare para ser tecnico en programacion 
+- 🔭 En preparatoria me prepare para ser tecnico en programacion.
 - Tengo experiencia en algunos lenguajes de programación como:c#, c++, Java.
 - Y aunque html no entra en esa categoria, tambien he trabajado con el.
 - Lo que recomiendo es que no debes de quedarte solo con uno, sino empaparte de conocimiento para tener un conocimiento mas amplio.
+- Actualmente estudio Ingenieria en Sistemas Computacionales en 5to semestre.
 
-
-
-Ejemplo Tablas en MD
+Horario academico 
 
 |       	|                 LUNES                 	|                 MARTES                	|               MIERCOLES               	|                 JUEVES                	|         VIERNES        	|
 |-------	|:-------------------------------------:	|:-------------------------------------:	|:-------------------------------------:	|:-------------------------------------:	|:----------------------:	|
@@ -23,4 +22,7 @@ Ejemplo Tablas en MD
 | 16:00 	|   Fundamentos de telecomunicaciones   	|   Fundamentos de telecomunicaciones   	|   Fundamentos de telecomunicaciones   	|   Fundamentos de telecomunicaciones   	|                        	|
 | 17:00 	|          Sistemas operativos          	|          Sistemas operativos          	|          Sistemas operativos          	|          Sistemas operativos          	|                        	|
 | 18:00 	| Fundamentos de ingenieria de software 	| Fundamentos de ingenieria de software 	| Fundamentos de ingenieria de software 	| Fundamentos de ingenieria de software 	|                        	|
-| 19:00 	|        Taller de base de datos        	|        Taller de base de datos        	|        Taller de base de datos        	|        Taller de base de datos        	|                        	|
+| 19:00 	|        Taller de base de datos        	|        Taller de base de datos        	|        Taller de base de datos        	|        Taller de base de datos        	|                    
+
+Si alguno de ustedes colegas de esta plataforma necesita ayuda en temas respecto a la carrera, no duden en contactarme.
+Saludos!
