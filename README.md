@@ -3,7 +3,7 @@
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 ### Bienvenidos amigos👋
-✨ Kevin Figueroa ✨ 19 años ✨
+✨ Kevin Figueroa ✨ 21 años ✨
  
  Estudiante de INSTITUTO TECNOLÓGICO DE TIJUANA
  
